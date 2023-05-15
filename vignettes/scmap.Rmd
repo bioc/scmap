@@ -3,7 +3,7 @@ title: "`scmap` package vignette"
 author: "Vladimir Kiselev and Martin Hemberg"
 date: "`r Sys.Date()`"
 output:
-    BiocStyle::html_document:
+    rmarkdown::html_document:
         toc: true
 vignette: >
   %\VignetteIndexEntry{`scmap` package vignette}
